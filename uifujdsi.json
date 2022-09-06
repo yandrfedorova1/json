@@ -1,0 +1,32 @@
+"app_info":
+{
+"projectId": "6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0",
+"applicationId": "a39ea338-5e88-4eae-bf8a-45c22faac847",
+"appversionId": "4086d1cb-4dd7-43e8-851a-54f9357a2e9f",
+"frontendEndpoint": "https://mrobot.mega-net.ru/sb/canvas/100k1/index.html",
+"frontendType": "WEB_APP",
+},
+"activate_app_info": true,
+"items":
+[
+{
+"command":
+{
+"type": "smart_app_data",
+"smart_app_data":
+{
+"debug": 0,
+"request": false,
+"question":
+{
+"q": "Сто к одному"
+},
+"users":
+[],
+"text": "Добро пожаловать"
+}
+}
+}
+],
+"finished": false
+
