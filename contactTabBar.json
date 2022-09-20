@@ -1,0 +1,314 @@
+{
+"card":
+{
+"can_be_disabled": true,
+"type": "list_card",
+"paddings":
+{
+"left": "8x",
+"right": "8x"
+},
+"cells":
+[
+{
+"content":
+{
+"text": "Карточка контактов list_card left_right_cell_view",
+"typeface": "title1",
+"text_color": "default",
+"max_lines": 0
+},
+"paddings":
+{
+"bottom": "6x",
+"left": "8x",
+"right": "8x",
+"top": "6x"
+},
+"type": "text_cell_view"
+},
+{
+"left":
+{
+"icon":
+{
+"address":
+{
+"type": "localcontact",
+"local_contact_hash": "9b8d48d7ec232788e0b2180d9585e0825dc74c82d5c398fd84940e72c3468049"
+},
+"size":
+{
+"width": "medium",
+"height": "medium"
+}
+},
+"texts":
+{
+"title":
+{
+"text": "+7 (905) 738-55-46",
+"typeface": "body1",
+"text_color": "default",
+"max_lines": 0
+},
+"subtitle":
+{
+"text": "hash_сontaсt",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 0
+}
+},
+"icon_vertical_gravity": "center",
+"type": "simple_left_view"
+},
+"right":
+{
+"detail":
+{
+"text": "sha256",
+"typeface": "body1",
+"text_color": "brand",
+"max_lines": 1
+},
+"info_and_icon":
+{
+"info":
+{
+"text": "Колян",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 1
+},
+"margins":
+{
+"bottom": "0x",
+"left": "8x",
+"right": "0x",
+"top": "0x"
+}
+},
+"margins":
+{
+"bottom": "2x",
+"left": "2x",
+"right": "0x",
+"top": "0x"
+},
+"vertical_gravity": "top",
+"detail_position": "top",
+"type": "detail_right_view"
+},
+"divider":
+{
+"style": "default",
+"size": "d5"
+},
+"paddings":
+{
+"bottom": "4x",
+"left": "4x",
+"right": "8x",
+"top": "4x"
+},
+"type": "left_right_cell_view",
+"actions":
+[
+{
+"type": "text",
+"text": "Вы нажали на карточку +7 (905) 738-55-46"
+}
+]
+},
+{
+"left":
+{
+"icon":
+{
+"address":
+{
+"type": "localcontact",
+"local_contact_hash": "86b4c145530937a1e3b203d1420ddf4b79c50c109e22fea441a1b1d3c1c45142"
+},
+"size":
+{
+"width": "large",
+"height": "large"
+}
+},
+"texts":
+{
+"title":
+{
+"text": "+7 (905) 236-99-16",
+"typeface": "body1",
+"text_color": "default",
+"max_lines": 0
+},
+"subtitle":
+{
+"text": "hash_сontaсt",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 0
+}
+},
+"icon_vertical_gravity": "center",
+"type": "simple_left_view"
+},
+"right":
+{
+"detail":
+{
+"text": "sha256",
+"typeface": "body1",
+"text_color": "brand",
+"max_lines": 1
+},
+"info_and_icon":
+{
+"info":
+{
+"text": "Борян",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 1
+},
+"margins":
+{
+"bottom": "0x",
+"left": "8x",
+"right": "0x",
+"top": "0x"
+}
+},
+"margins":
+{
+"bottom": "2x",
+"left": "2x",
+"right": "0x",
+"top": "0x"
+},
+"vertical_gravity": "top",
+"detail_position": "top",
+"type": "detail_right_view"
+},
+"divider":
+{
+"style": "default",
+"size": "d5"
+},
+"paddings":
+{
+"bottom": "4x",
+"left": "4x",
+"right": "8x",
+"top": "4x"
+},
+"type": "left_right_cell_view",
+"actions":
+[
+{
+"type": "text",
+"text": "Вы нажали на карточку +7 (905) 236-99-16"
+}
+]
+},
+{
+"left":
+{
+"icon":
+{
+"address":
+{
+"type": "localcontact",
+"local_contact_hash": "f85af8954663ef7d62862e6888a034635f50b7fb1536098d55f9fc087049ceea"
+},
+"size":
+{
+"width": "resizable",
+"height": "resizable"
+}
+},
+"texts":
+{
+"title":
+{
+"text": "+7 (999) 333-22-11",
+"typeface": "body1",
+"text_color": "default",
+"max_lines": 0
+},
+"subtitle":
+{
+"text": "hash_сontaсt",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 0
+}
+},
+"icon_vertical_gravity": "center",
+"type": "simple_left_view"
+},
+"right":
+{
+"detail":
+{
+"text": "sha256",
+"typeface": "body1",
+"text_color": "brand",
+"max_lines": 1
+},
+"info_and_icon":
+{
+"info":
+{
+"text": "Толян",
+"typeface": "footnote1",
+"text_color": "secondary",
+"max_lines": 1
+},
+"margins":
+{
+"bottom": "0x",
+"left": "8x",
+"right": "0x",
+"top": "0x"
+}
+},
+"margins":
+{
+"bottom": "2x",
+"left": "2x",
+"right": "0x",
+"top": "0x"
+},
+"vertical_gravity": "top",
+"detail_position": "top",
+"type": "detail_right_view"
+},
+"divider":
+{
+"style": "default",
+"size": "d5"
+},
+"paddings":
+{
+"bottom": "4x",
+"left": "4x",
+"right": "8x",
+"top": "4x"
+},
+"type": "left_right_cell_view",
+"actions":
+[
+{
+"type": "text",
+"text": "Вы нажали на карточку +7 (999) 333-22-11"
+}
+]
+}
+]
+}
+}
