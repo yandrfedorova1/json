@@ -1,0 +1,27 @@
+ {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "кликни, чтобы поделиться",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "actions": [
+                {
+                  "type": "share_text",
+                  "text": "companionapp://navigation?pageId=assistant&text=some%20text"
+                }
+              ]
+            },
+            "paddings": {
+              "left": "8x",
+              "top": "6x",
+              "bottom": "6x",
+              "right": "8x"
+            }
+          }
+        ]
+      }
+    }
