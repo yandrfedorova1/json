@@ -1,0 +1,64 @@
+{
+"debug_info":
+{},
+"additional_apps_payload":
+[],
+"assistant_items":
+[],
+"auto_listening": false,
+"projectName": "4aa2189b-8f1f-4682-a0d0-7386af792474",
+"intent": "run_app",
+"original_intent": "run_app",
+"app_info":
+{
+"projectId": "6216416a-ca54-476f-a4fb-9ee1d5ae3a3e",
+"applicationId": "6320d5cb-881d-4b05-bdfc-9a680e1f2ee9",
+"appversionId": "83439df7-f1d9-4185-9910-ad28abce8d0d",
+"systemName": "",
+"frontendEndpoint": "https://todo-rho-beige.vercel.app/",
+"frontendType": "WEB_APP",
+"apkInfo":
+{},
+"ageLimit": 0,
+"affiliationType": "EXTERNAL",
+"frontendStateId": "6216416a-ca54-476f-a4fb-9ee1d5ae3a3e_6320d5cb-881d-4b05-bdfc-9a680e1f2ee9_83439df7-f1d9-4185-9910-ad28abce8d0d",
+"securityAccess":
+{},
+"appearance":
+{
+"header":
+{
+"title": "4aa2189b-8f1f-4682-a0d0-7386af792474"
+}
+},
+"allowFastRunApp": false,
+"availableOrientations":
+[]
+},
+"activate_app_info": true,
+"items":
+[
+{
+"bubble":
+{
+"text": "Тест автоответчика запущен",
+"expand_policy": "auto_expand",
+"markdown": false
+}
+}
+],
+"asr_hints":
+{},
+"smartBio":
+{},
+"voice": "She_HQ",
+"character":
+{
+"id": "sber"
+},
+"userSettings":
+{},
+"feature_launcher":
+{},
+"finished": false
+}
