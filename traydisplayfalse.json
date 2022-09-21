@@ -1,0 +1,124 @@
+{
+   "app_info":{
+      "affiliationType":"EXTERNAL",
+      "ageLimit":6,
+      "allowFastRunApp":false,
+      "apkInfo":{
+         
+      },
+      "appearance":{
+         "header":{
+            "icon":{
+               "hash":"09140788a6166b5127c2a91b3c086a13",
+               "type":"url",
+               "url":"https:\/\/cdn.sberdevices.ru\/static\/services\/target\/5253967d-73df-4ff9-8348-914f0e91e3fa\/6c9b71a3-24c1-4e2c-b7df-972fc601f232.png"
+            },
+            "title":"Сто к одному"
+         }
+      },
+      "applicationId":"a39ea338-5e88-4eae-bf8a-45c22faac847",
+      "appversionId":"4086d1cb-4dd7-43e8-851a-54f9357a2e9f",
+      "availableOrientations":[
+         
+      ],
+      "frontendEndpoint":"https:\/\/mrobot.mega-net.ru\/sb\/canvas\/100k1\/index.html",
+      "frontendStateId":"6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0_a39ea338-5e88-4eae-bf8a-45c22faac847_4086d1cb-4dd7-43e8-851a-54f9357a2e9f",
+      "frontendType":"WEB_APP",
+      "trayDisplay":false,
+      "projectId":"6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0",
+      "securityAccess":{
+         
+      },
+      "systemName":"Sto_k_odnomu"
+   },
+   "asr_hints":{
+      
+   },
+   "assistant_items":[
+      
+   ],
+   "auto_listening":false,
+   "character":{
+      "id":"sber"
+   },
+   "debug_info":{
+      
+   },
+   "feature_launcher":{
+      "assigned_testing_groups":[
+         
+      ],
+      "nlp_platform":{
+         "greenfield_segment_list":[
+            "sbol_gte_12.0.0",
+            "sbol_version_gte_12.0.0",
+            "ALL_PEOPLES",
+            "COMPANION"
+         ]
+      },
+      "public":{
+         "greenfield_segment_list":[
+            "sbol_gte_12.0.0",
+            "sbol_version_gte_12.0.0",
+            "ALL_PEOPLES",
+            "COMPANION"
+         ]
+      }
+   },
+   "finished":false,
+   "intent":"run_app",
+   "items":[
+      {
+         "command":{
+            "smart_app_data":{
+               "debug":0,
+               "question":{
+                  "q":"Сто к одному"
+               },
+               "request":false,
+               "text":"Добро пожаловать в игру «Сто к одному».\nЦель игры в том, чтобы угадать шесть наиболее распространённых ответов случайных людей на предложенный им вопрос, на который невозможно дать однозначный ответ.\nПоиграем?",
+               "users":[
+                  
+               ]
+            },
+            "type":"smart_app_data"
+         }
+      }
+   ],
+   "original_intent":"run_app",
+   "projectName":"Сто к одному",
+   "pronounceText":"<speak>Добро пожаловать в игру «Сто к одному». Цель игры' в том, чтобы угадать шесть наиболее распространённых ответов случайных людей на предложенный им вопрос, на который невозможно дать однозначный ответ. Поиграем?<\/speak>",
+   "pronounceTextType":"application\/ssml",
+   "smartBio":{
+      
+   },
+   "suggestions":{
+      "buttons":[
+         {
+            "action":{
+               "text":"начинай",
+               "type":"text"
+            },
+            "title":"Начать игру 🤝"
+         },
+         {
+            "action":{
+               "text":"помощь",
+               "type":"text"
+            },
+            "title":"Помощь 🙏"
+         },
+         {
+            "action":{
+               "text":"выход",
+               "type":"text"
+            },
+            "title":"Выход 💀"
+         }
+      ]
+   },
+   "userSettings":{
+      "initials":"ЮФ"
+   },
+   "voice":"She_HQ"
+}
