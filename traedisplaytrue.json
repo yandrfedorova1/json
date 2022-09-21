@@ -24,7 +24,7 @@
       "frontendEndpoint":"https:\/\/mrobot.mega-net.ru\/sb\/canvas\/100k1\/index.html",
       "frontendStateId":"6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0_a39ea338-5e88-4eae-bf8a-45c22faac847_4086d1cb-4dd7-43e8-851a-54f9357a2e9f",
       "frontendType":"WEB_APP",
-      "trayDisplay":true,
+      "trayDisplay":false,
       "projectId":"6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0",
       "securityAccess":{
          
