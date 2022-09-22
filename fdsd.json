@@ -1,0 +1,78 @@
+{
+              "auto_listening": true,
+              "projectName": "Силуэты: угадай героя",
+              "intent": "run_app",
+              "app_info": {
+                "projectId": "42cda83e-a552-416c-a394-3d4986bef009",
+                "applicationId": "c2e181a5-76ae-4edd-b22f-74f82bff7e6d",
+                "appversionId": "e62b18b6-e39c-48a5-b988-35a34f23e147",
+                "frontendEndpoint": "None",
+                "trayDisplay": true,
+                "frontendType": "CHAT_APP",
+                "frontendStateId": "42cda83e-a552-416c-a394-3d4986bef009_c2e181a5-76ae-4edd-b22f-74f82bff7e6d_e62b18b6-e39c-48a5-b988-35a34f23e147",
+                "appearance": {
+                  "header": {
+                    "title": "Силуэты: угадай героя",
+                    "icon": {
+                      "type": "url",
+                      "url": "https://cdn.sberdevices.ru/static/services/target/30be108e-0aee-494f-95ea-b1a6caac4e9e/bb49cde2-0337-47c3-a275-cb55da056847.png",
+                      "hash": "1fa6729fd447b7c327ca5b105786a749"
+                    }
+                  }
+                }
+              },
+              "activate_app_info": true,
+              "items": [
+                {
+                  "bubble": {
+                    "text": "Привет!\n\nЯ покажу силуэт героя мультфильма, нужно угадать, кто это.\n\nНазови героя!"
+                  }
+                },
+                {
+                  "card": {
+                    "type": "gallery_card",
+                    "items": [
+                      {
+                        "type": "media_gallery_item",
+                        "image": {
+                          "url": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
+                          "hash": "f9547a00ec97163e981c00a3e088723c",
+                          "size": {
+                            "width": "small",
+                            "aspect_ratio": 1.42
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "asr_hints": {
+                "words": [
+                  "Другую загадку",
+                  "Узнать ответ"
+                ]
+              },
+              "suggestions": {
+                "buttons": [
+                  {
+                    "title": "Другую загадку",
+                    "action": {
+                      "text": "Другую загадку",
+                      "type": "text"
+                    }
+                  },
+                  {
+                    "title": "Узнать ответ",
+                    "action": {
+                      "text": "Узнать ответ",
+                      "type": "text"
+                    }
+                  }
+                ]
+              },
+              "character": {
+                "id": "sber"
+              },
+              "userSettings": {}
+            }
