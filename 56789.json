@@ -1,0 +1,45 @@
+{
+    "items": [
+        {
+            "card": {
+                "type": "list_card",
+                "paddings": {
+                    "top": "4x",
+                    "bottom": "4x"
+                },
+                "cells": [
+                    {
+                        "type": "button_cell_view",
+                        "content": {
+                            "text": "Server action",
+                            "typeface": "button1",
+                            "style": "default",
+                            "type": "accept",
+                            "actions": [
+                                {
+                                    "type": "server_action",
+                                    "message_name": "TEST_SERVER_ACTION",
+                                    "server_action": {
+                                        "test param": "test value"
+                                    }
+                                }
+                            ],
+                            "margins": {
+                                "left": "10x",
+                                "top": "5x",
+                                "right": "10x",
+                                "bottom": "5x"
+                            }
+                        },
+                        "paddings": {
+                            "left": "4x",
+                            "top": "4x",
+                            "right": "4x",
+                            "bottom": "4x"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
