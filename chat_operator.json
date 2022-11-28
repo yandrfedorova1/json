@@ -1,0 +1,53 @@
+{
+   "activate_app_info":true,
+   "additional_apps_payload":[
+      
+   ],
+   "app_info":{
+      "appearance":{
+         "header":{
+            "title":"Demo Canvas App"
+         }
+      },
+      "applicationId":"8b91caec-e047-489d-889c-3d4b8a2e9346",
+      "appversionId":"f9bc0a9c-fd53-458b-a8f9-5a22dbf9e0a7",
+      "frontendEndpoint":"http://localhost:3000/",
+      "frontendStateId":"484eabe8-9fee-4402-abc9-4734120cab82",
+      "frontendType":"WEB_APP",
+      "projectId":"14dd29e8-fc60-493f-8aeb-6528e20f610d",
+      "systemName":"oritest",
+      "canvasType":"ordinary",
+      "availableOrientations":[
+         "portrait"
+      ]
+   },
+   "asr_hints":{
+      
+   },
+   "assistant_items":[
+      
+   ],
+   "auto_listening":false,
+   "character":{
+      "id":"sber"
+   },
+   "debug_info":{
+      
+   },
+   "feature_launcher":{
+      
+   },
+   "finished":false,
+   "intent":"run_app",
+   "items":[
+      
+   ],
+   "projectName":"OriTest",
+   "smartBio":{
+      
+   },
+   "userSettings":{
+      "initials":"КО"
+   },
+   "voice":"She_HQ"
+}
