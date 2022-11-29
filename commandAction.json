@@ -1,0 +1,13 @@
+{
+          "items": [
+            {
+              "command": {
+                "type": "action",
+                 "action": {
+                  "text": "Другую загадку",
+                  "type": "text"
+                }
+              }
+            }
+          ]
+        }
